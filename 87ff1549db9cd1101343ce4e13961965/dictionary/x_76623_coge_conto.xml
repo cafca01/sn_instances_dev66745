@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="conto" max_length="40" name="x_76623_coge_conto" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Codice" max_length="40" name="codice" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Descrizione" max_length="1040" name="descrizione" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
