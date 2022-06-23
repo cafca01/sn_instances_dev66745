@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="CoGe">e381bd810b101510f2a8e78c4c62e067</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:59:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ab81bd81281015102e13df6898eec466</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_update_name>sys_ux_page_property_ab81bd81281015102e13df6898eec466</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:00:07</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_76623_coge.e381bd810b101510f2a8e78c4c62e067.root.listConfigId</unique_name>
+        <value>ed91fd81db1015101343ce4e1396196c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=ab81bd81281015102e13df6898eec466"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CoGe">87ff1549db9cd1101343ce4e13961965</application>
+        <file_path/>
+        <instance_id>8e253f54db6b5f447d8cf22ebf961985</instance_id>
+        <instance_name>dev66745</instance_name>
+        <name>sys_ux_page_property_ab81bd81281015102e13df6898eec466</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>listConfigId</name><page display_value="CoGe">e381bd810b101510f2a8e78c4c62e067</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-23 12:59:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>ab81bd81281015102e13df6898eec466</sys_id><sys_mod_count>1</sys_mod_count><sys_name>listConfigId</sys_name><sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package><sys_policy/><sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope><sys_update_name>sys_ux_page_property_ab81bd81281015102e13df6898eec466</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-23 13:00:07</sys_updated_on><type>string</type><unique_name>x_76623_coge.e381bd810b101510f2a8e78c4c62e067.root.listConfigId</unique_name><value>ed91fd81db1015101343ce4e1396196c</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=ab81bd81281015102e13df6898eec466"/></record_update>]]></payload>
+        <payload_hash>383098968</payload_hash>
+        <record_name>listConfigId</record_name>
+        <reverted_from/>
+        <source>55e9ad49dbdcd1101343ce4e139619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 13:00:07</sys_created_on>
+        <sys_id>b19131c1db1015101343ce4e13961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18190a603750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:00:07</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>f99131c190101510fc8328a340c11d61</update_guid>
+        <update_guid_history>f99131c190101510fc8328a340c11d61:383098968,359131c194101510adfca2d7d18dd960:-1787894276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 13:01:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1c9f331ccea74f508ad0897d20172240</sys_id>
+        <sys_metadata>ab81bd81281015102e13df6898eec466</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_scope_delete display_value="">bcd59ee6c3844f889126f30896c32210</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ab81bd81281015102e13df6898eec466</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ab81bd81281015102e13df6898eec466">b19131c1db1015101343ce4e13961962</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:01:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

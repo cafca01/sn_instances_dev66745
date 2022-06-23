@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x.76623.coge.*</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:59:59</sys_created_on>
+        <sys_id>6781bd81701015103be921d79f16af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.76623.coge.*</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_update_name>sys_security_acl_6781bd81701015103be921d79f16af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 12:59:59</sys_updated_on>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

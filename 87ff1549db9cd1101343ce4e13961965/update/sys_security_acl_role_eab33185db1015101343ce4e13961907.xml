@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 13:09:28</sys_created_on>
+        <sys_id>eab33185db1015101343ce4e13961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.76623.coge.*.x_76623_coge.coge</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_security_acl display_value="x.76623.coge.*">6781bd81701015103be921d79f16af69</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eab33185db1015101343ce4e13961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:09:28</sys_updated_on>
+        <sys_user_role display_value="x_76623_coge.coge" name="x_76623_coge.coge">1700ed8ddb9cd1101343ce4e13961993</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

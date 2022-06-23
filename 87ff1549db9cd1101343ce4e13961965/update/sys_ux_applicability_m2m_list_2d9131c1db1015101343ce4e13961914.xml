@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appCoGe">4191fd81db1015101343ce4e13961966</applicability>
+        <list display_value="All">ad91fd81db1015101343ce4e13961970</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 13:00:07</sys_created_on>
+        <sys_id>2d9131c1db1015101343ce4e13961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_2d9131c1db1015101343ce4e13961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:00:07</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Coge 1655987182883" max_length="40" name="x_76623_coge_1655987182883" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dataview_attributename" label="dataview_attributename" max_length="40" name="u_dataview_attributename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dataview_displaytypename" label="dataview_displaytypename" max_length="40" name="u_dataview_displaytypename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dataview_propertylabel" label="dataview_propertylabel" max_length="40" name="u_dataview_propertylabel" type="string"/>
+    </element>
+</database>

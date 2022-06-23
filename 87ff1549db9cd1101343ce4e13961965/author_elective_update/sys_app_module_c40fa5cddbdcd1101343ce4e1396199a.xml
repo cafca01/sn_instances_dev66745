@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Coge 1655988521550</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_76623_coge_1655988521550</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:48:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c40fa5cddbdcd1101343ce4e1396199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Coge 1655988521550</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_update_name>sys_app_module_c40fa5cddbdcd1101343ce4e1396199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 12:48:48</sys_updated_on>
+        <timeline_page/>
+        <title>Coge 1655988521550</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CoGe">87ff1549db9cd1101343ce4e13961965</application>
+        <file_path/>
+        <instance_id>8e253f54db6b5f447d8cf22ebf961985</instance_id>
+        <instance_name>dev66745</instance_name>
+        <name>sys_app_module_c40fa5cddbdcd1101343ce4e1396199a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Coge 1655988521550</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_76623_coge_1655988521550</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-23 12:48:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c40fa5cddbdcd1101343ce4e1396199a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Coge 1655988521550</sys_name><sys_overrides/><sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package><sys_policy/><sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope><sys_update_name>sys_app_module_c40fa5cddbdcd1101343ce4e1396199a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-23 12:48:48</sys_updated_on><timeline_page/><title>Coge 1655988521550</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1914340880</payload_hash>
+        <record_name>Coge 1655988521550</record_name>
+        <reverted_from/>
+        <source>55e9ad49dbdcd1101343ce4e139619c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:48:48</sys_created_on>
+        <sys_id>c40fa5cddbdcd1101343ce4e1396199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181909ba69c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 12:48:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>000fa5cd8edcd110e8f317a03810489c</update_guid>
+        <update_guid_history>000fa5cd8edcd110e8f317a03810489c:1914340880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Coge 1655988521550">704fedcddbdcd1101343ce4e1396198f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:49:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3c1cc5bd835e45eca1e2fb166223e971</sys_id>
+        <sys_metadata>c40fa5cddbdcd1101343ce4e1396199a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Coge 1655988521550</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_scope_delete display_value="">bcd59ee6c3844f889126f30896c32210</sys_scope_delete>
+        <sys_update_name>sys_app_module_c40fa5cddbdcd1101343ce4e1396199a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c40fa5cddbdcd1101343ce4e1396199a">c40fa5cddbdcd1101343ce4e1396199c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 12:49:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

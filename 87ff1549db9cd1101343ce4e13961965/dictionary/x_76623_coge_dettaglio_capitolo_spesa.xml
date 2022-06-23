@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Dettaglio Capitolo Spesa" max_length="40" name="x_76623_coge_dettaglio_capitolo_spesa" type="collection">
+        <element attributes="omit_sys_original=true" label="Accantonamenti 1/12" max_length="20" name="accantonamenti_1_12" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Accantonamenti IGB" max_length="20" name="accantonamenti_igb" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Accantonamento IGB cassa" max_length="20" name="accantonamento_igb_cassa" type="currency"/>
+        <element label="anno" max_length="4" name="anno" type="string"/>
+        <element attributes="omit_sys_original=true" label="Disponibile per competenza" max_length="20" name="disponibile_per_competenza" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Disponibilità per cassa" max_length="20" name="disponibilit_per_cassa" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Impegnabili" max_length="20" name="impegnabili" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Impegnato anno in corso" max_length="20" name="impegnato_anno_in_corso" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Impegnato da anni precedenti" max_length="20" name="impegnato_da_anni_precedenti" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Importo variazioni" max_length="20" name="importo_variazioni" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Importo Variazioni per cassa" max_length="20" name="importo_variazioni_per_cassa" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Liquidato" max_length="20" name="liquidato" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="parent" max_length="32" name="parent" reference="x_76623_coge_conto" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Spendibili" max_length="20" name="spendibili" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Stanziamento anno" max_length="20" name="stanziamento_anno" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Stanziamento per cassa" max_length="20" name="stanziamento_per_cassa" type="currency"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

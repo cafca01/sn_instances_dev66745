@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">e381bd810b101510f2a8e78c4c62e067</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 12:59:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6b81bd81ed101510ff2aa364ec21b266</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_update_name>sys_ux_page_property_6b81bd81ed101510ff2aa364ec21b266</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 12:59:59</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_76623_coge.e381bd810b101510f2a8e78c4c62e067.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CoGe">87ff1549db9cd1101343ce4e13961965</application>
+        <file_path/>
+        <instance_id>8e253f54db6b5f447d8cf22ebf961985</instance_id>
+        <instance_name>dev66745</instance_name>
+        <name>sys_ux_page_property_6b81bd81ed101510ff2aa364ec21b266</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">e381bd810b101510f2a8e78c4c62e067</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-23 12:59:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>6b81bd81ed101510ff2aa364ec21b266</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package><sys_policy/><sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope><sys_update_name>sys_ux_page_property_6b81bd81ed101510ff2aa364ec21b266</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-23 12:59:59</sys_updated_on><type>json</type><unique_name>x_76623_coge.e381bd810b101510f2a8e78c4c62e067.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1050198153</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>6b5441f3db3301101343ce4e1396199e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-06-07 02:14:27</sys_created_on>
+        <sys_id>fee1b9c1db1015101343ce4e1396192f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1813bf11fb80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>bee1b9c1f3101510d530b72bf504a02f</update_guid>
+        <update_guid_history>bee1b9c1f3101510d530b72bf504a02f:-1050198153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 13:01:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>07de92bdedb1487880c94429b9f08110</sys_id>
+        <sys_metadata>6b81bd81ed101510ff2aa364ec21b266</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="CoGe" source="x_76623_coge">87ff1549db9cd1101343ce4e13961965</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CoGe">87ff1549db9cd1101343ce4e13961965</sys_scope>
+        <sys_scope_delete display_value="">bcd59ee6c3844f889126f30896c32210</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_6b81bd81ed101510ff2aa364ec21b266</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_6b81bd81ed101510ff2aa364ec21b266">fee1b9c1db1015101343ce4e1396192f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 13:01:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
